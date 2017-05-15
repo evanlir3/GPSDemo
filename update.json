@@ -2,6 +2,6 @@
   "update_url" : "https://raw.githubusercontent.com/evanlir3/GPSDemo/master/UPlusCloud-release.apk",
   "msg" : "你有新的版本需要更新",
   "version_code" : 10,
-  "version_name" : "10.0",
+  "version_name" : "1.0",
   "ignore_able" : true
 }
